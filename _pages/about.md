@@ -29,7 +29,6 @@ I am currently studying for a PhD in Hong Kong Baptist University. My research i
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/2024-CVPR-QAP.pdf' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Prompt Vision Foundation Models for Pathology Image Analysis](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_Prompting_Vision_Foundation_Models_for_Pathology_Image_Analysis_CVPR_2024_paper.pdf) <br> 
 **Chong Yin**, Siqi Liu, Kaiyang Zhou, Vincent Wai-Sun Wong, Pong C. Yuen <br> 
 IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024. <br> 
@@ -38,8 +37,7 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024. <br>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/2024-CVPR-XFibrosis.pdf' alt="sym" width="50%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
+<div class='paper-box-text' markdown="1">  
 [XFibrosis: Explicit Fiber-Vessel Modeling for Fibrosis Staging from Liver Pathology Images](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_XFibrosis_Explicit_Vessel-Fiber_Modeling_for_Fibrosis_Staging_from_Liver_Pathology_CVPR_2024_paper.pdf) <br> 
 **Chong Yin**, Siqi Liu, Fei Lyu, Jiahao Lu, Sune Darkner, Vincent Wai-Sun Wong, Pong C. Yuen <br> 
 IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024. <br> 
@@ -47,6 +45,8 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024. <br>
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics 2024</div><img src='images/2024-Bioinformatics-BindingSiteDTI.jpeg' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
 [BindingSiteDTI: differential-scale binding site modelling for drug–target interaction prediction](https://academic.oup.com/bioinformatics/article/40/5/btae308/7668442) <br> 
 Feng Pan, **Chong Yin**, Si-Qi Liu, Tao Huang, Zhaoxiang Bian, Pong Chi Yuen <br> 
 Bioinformatics, 2024. <br> 
