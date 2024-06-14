@@ -49,7 +49,7 @@ I am currently studying for a PhD in Hong Kong Baptist University. My research i
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/SparseX.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/SparseX.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Learning Sparse Interpretable Features For NAS Scoring From Liver Biopsy Images](https://www.ijcai.org/proceedings/2022/0220.pdf)
