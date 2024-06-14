@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 👋 About Me
 I am currently studying for a PhD in Hong Kong Baptist University. My research interest is medical image analysis, and interpretable network design. Our main focus of investigation currently is nonalcoholic fatty liver disease (NAFLD), which has emerged as the most common liver disease worldwide.
+- 📫 Email: chongyin@comp.hkbu.edu.hk; chong2yolo@gmail.com
 
 # 🔥 News
 
