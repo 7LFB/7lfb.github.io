@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -17,23 +17,31 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently studying for a PhD in Hong Kong Baptist University. My research interest is medical image analysis, and interpretable network design. Our main focus of investigation currently is nonalcoholic fatty liver disease (NAFLD), which has emerged as the most common liver disease  worldwide.
-
+I am currently studying for a PhD in Hong Kong Baptist University. My research interest is medical image analysis, and interpretable network design. Our main focus of investigation currently is nonalcoholic fatty liver disease (NAFLD), which has emerged as the most common liver disease worldwide.
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 Two CVPR papers accepted. See you in Seattle.
-- *2022.03*: &nbsp;🎉🎉 One IJCAI paper accepted. See you in Vienna.
-- *2021.05*: &nbsp;🎉🎉 One MICCAI paper accepted.
 
-# 📝 Publications 
+- _2024.02_: &nbsp;🎉🎉 Two CVPR papers accepted. See you in Seattle.
+- _2022.03_: &nbsp;🎉🎉 One IJCAI paper accepted. See you in Vienna.
+- _2021.05_: &nbsp;🎉🎉 One MICCAI paper accepted.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/2024-CVPR-QAP.pdf' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Prompt Vision Foundation Models for Pathology Image Analysis](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_Prompting_Vision_Foundation_Models_for_Pathology_Image_Analysis_CVPR_2024_paper.pdf) <br> 
-**Chong Yin**, Siqi Liu, Kaiyang Zhou, Vincent Wai-Sun Wong, Pong C. Yuen <br> 
-IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024. <br> 
-[**Code**](https://github.com/7LFB/QAP) [**PDF**](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_Prompting_Vision_Foundation_Models_for_Pathology_Image_Analysis_CVPR_2024_paper.pdf) [**Video**](https://www.youtube.com/watch?v=NVvSgUNN2ro)<br> 
-</div>
+# 📝 Publications
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CVPR 2024</div>
+      <img src='images/2024-CVPR-QAP.pdf' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    [Prompt Vision Foundation Models for Pathology Image Analysis](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_Prompting_Vision_Foundation_Models_for_Pathology_Image_Analysis_CVPR_2024_paper.pdf) <br> 
+    **Chong Yin**, Siqi Liu, Kaiyang Zhou, Vincent Wai-Sun Wong, Pong C. Yuen <br> 
+    IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024. <br> 
+    [**Code**](https://github.com/7LFB/QAP) 
+    [**PDF**](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_Prompting_Vision_Foundation_Models_for_Pathology_Image_Analysis_CVPR_2024_paper.pdf) 
+    [**Video**](https://www.youtube.com/watch?v=NVvSgUNN2ro)<br> 
+  </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/2024-CVPR-XFibrosis.pdf' alt="sym" width="100%"></div></div>
@@ -72,18 +80,20 @@ International Conference on Medical Image Computing and Computer Assisted Interv
 </div>
 </div>
 
-
 # 🎖 Honors and Awards
-- *2024.06* Research Performance Award, COMP, HKBU
-- *2022.06* Research Performance Award, COMP, HKBU
-- *2021.06* Research Performance Award, COMP, HKBU
-- *2021.09* Student Travel Award, MICCAI 2021 
+
+- _2024.06_ Research Performance Award, COMP, HKBU
+- _2022.06_ Research Performance Award, COMP, HKBU
+- _2021.06_ Research Performance Award, COMP, HKBU
+- _2021.09_ Student Travel Award, MICCAI 2021
 
 # 📖 Educations
-- *2019.09 - 2024.08*, PhD, Hong Kong Baptist University, Supervisor: Prof. Yuen Pong Chi 
-- *2015.09 - 2018.06*, Mater of Science, Sun Yet-Sen University, Supervisor: Prof. Lai Jianhuang.
-- *2011.09 - 2015.06*, Bachelor of Science, Henan University of Science and Technology.
+
+- _2019.09 - 2024.08_, PhD, Hong Kong Baptist University, Supervisor: Prof. Yuen Pong Chi
+- _2015.09 - 2018.06_, Mater of Science, Sun Yet-Sen University, Supervisor: Prof. Lai Jianhuang.
+- _2011.09 - 2015.06_, Bachelor of Science, Henan University of Science and Technology.
 
 # 💻 Research Experience
-- *2022.03 - 2022.08*, Overseas study, The University of Copenhagen, Denmark.
-- *2019*, IAPR/IEEE Winter School on Biometrics, Shenzhen, China
+
+- _2022.03 - 2022.08_, Overseas study, The University of Copenhagen, Denmark.
+- _2019_, IAPR/IEEE Winter School on Biometrics, Shenzhen, China
