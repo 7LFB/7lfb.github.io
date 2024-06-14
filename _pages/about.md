@@ -45,6 +45,7 @@ I am currently studying for a PhD in Hong Kong Baptist University. My research i
 [XFibrosis: Explicit Fiber-Vessel Modeling for Fibrosis Staging from Liver Pathology Images](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_XFibrosis_Explicit_Vessel-Fiber_Modeling_for_Fibrosis_Staging_from_Liver_Pathology_CVPR_2024_paper.pdf)
 
 **Chong Yin**, Siqi Liu, Fei Lyu, Jiahao Lu, Sune Darkner, Vincent Wai-Sun Wong, Pong C. Yuen
+
 [**PDF**](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_XFibrosis_Explicit_Vessel-Fiber_Modeling_for_Fibrosis_Staging_from_Liver_Pathology_CVPR_2024_paper.pdf)
 - A graph-based learning method for fibrosis staging from liver pathology images. 
 </div>
@@ -56,6 +57,7 @@ I am currently studying for a PhD in Hong Kong Baptist University. My research i
 [Learning Sparse Interpretable Features For NAS Scoring From Liver Biopsy Images](https://www.ijcai.org/proceedings/2022/0220.pdf)
 
 **Chong Yin**, Siqi Liu, Vincent Wai-Sun Wong, Pong C. Yuen
+
 [**PDF**](https://www.ijcai.org/proceedings/2022/0220.pdf)
 - An end-to-end MIL-based method for NAS scoring from liver pathology images. 
 </div>
@@ -67,6 +69,7 @@ I am currently studying for a PhD in Hong Kong Baptist University. My research i
 [Focusing on Clinically Interpretable Features: Selective Attention Regularization for Liver Biopsy Image Classification](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_15)
 
 **Chong Yin**, Siqi Liu, Rui Shao, Pong C. Yuen
+
 [**PDF**](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_15)
 - An attention regularization method for tissue alteration recognition. 
 </div>
