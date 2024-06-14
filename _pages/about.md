@@ -27,7 +27,7 @@ I am currently studying for a PhD in Hong Kong Baptist University. My research i
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/QAP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/QAP.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Prompt Vision Foundation Models for Pathology Image Analysis](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_Prompting_Vision_Foundation_Models_for_Pathology_Image_Analysis_CVPR_2024_paper.pdf) <br> 
@@ -37,7 +37,7 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024. <br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/XFibrosis.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/XFibrosis.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [XFibrosis: Explicit Fiber-Vessel Modeling for Fibrosis Staging from Liver Pathology Images](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_XFibrosis_Explicit_Vessel-Fiber_Modeling_for_Fibrosis_Staging_from_Liver_Pathology_CVPR_2024_paper.pdf) <br> 
@@ -47,7 +47,7 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024. <br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/SparseX.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/SparseX.pdf' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Learning Sparse Interpretable Features For NAS Scoring From Liver Biopsy Images](https://www.ijcai.org/proceedings/2022/0220.pdf) <br> 
 **Chong Yin**, Siqi Liu, Vincent Wai-Sun Wong, Pong C. Yuen <br> 
@@ -56,7 +56,7 @@ International Joint Conference on Artificial Intelligence (IJCAI), 2022. <br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2021</div><img src='images/SAR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2021</div><img src='images/SAR.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Focusing on Clinically Interpretable Features: Selective Attention Regularization for Liver Biopsy Image Classification](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_15) <br> 
 **Chong Yin**, Siqi Liu, Rui Shao, Pong C. Yuen <br> 
