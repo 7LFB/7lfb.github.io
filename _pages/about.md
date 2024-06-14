@@ -34,6 +34,8 @@ I am currently studying for a PhD in Hong Kong Baptist University. My research i
 
 **Chong Yin**, Siqi Liu, Kaiyang Zhou, Vincent Wai-Sun Wong, Pong C. Yuen
 
+In Proceedings of the IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024. \textcolor{blue}{(CCF-A; Accept Rate: 23.6\%)}
+
 [**Code**](https://github.com/7LFB/QAP) [**PDF**](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_Prompting_Vision_Foundation_Models_for_Pathology_Image_Analysis_CVPR_2024_paper.pdfP)
 - A quantitative attribute-based prompting method for pathology image analysis. 
 </div>
