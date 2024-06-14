@@ -33,7 +33,7 @@ I am currently studying for a PhD in Hong Kong Baptist University. My research i
 [Prompt Vision Foundation Models for Pathology Image Analysis](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_Prompting_Vision_Foundation_Models_for_Pathology_Image_Analysis_CVPR_2024_paper.pdf) <br> 
 **Chong Yin**, Siqi Liu, Kaiyang Zhou, Vincent Wai-Sun Wong, Pong C. Yuen <br> 
 IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024. <br> 
-[**Code**](https://github.com/7LFB/QAP) [**PDF**](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_Prompting_Vision_Foundation_Models_for_Pathology_Image_Analysis_CVPR_2024_paper.pdf) <br> 
+[**Code**](https://github.com/7LFB/QAP) [**PDF**](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_Prompting_Vision_Foundation_Models_for_Pathology_Image_Analysis_CVPR_2024_paper.pdf) [**Video**](https://www.youtube.com/watch?v=NVvSgUNN2ro)<br> 
 </div>
 </div>
 
@@ -43,7 +43,14 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024. <br>
 [XFibrosis: Explicit Fiber-Vessel Modeling for Fibrosis Staging from Liver Pathology Images](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_XFibrosis_Explicit_Vessel-Fiber_Modeling_for_Fibrosis_Staging_from_Liver_Pathology_CVPR_2024_paper.pdf) <br> 
 **Chong Yin**, Siqi Liu, Fei Lyu, Jiahao Lu, Sune Darkner, Vincent Wai-Sun Wong, Pong C. Yuen <br> 
 IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024. <br> 
-[**PDF**](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_XFibrosis_Explicit_Vessel-Fiber_Modeling_for_Fibrosis_Staging_from_Liver_Pathology_CVPR_2024_paper.pdf) <br> 
+[**PDF**](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_XFibrosis_Explicit_Vessel-Fiber_Modeling_for_Fibrosis_Staging_from_Liver_Pathology_CVPR_2024_paper.pdf) [**Video**](https://www.youtube.com/watch?v=_Yiu5g71ZHo)<br> 
+</div>
+</div>
+
+[BindingSiteDTI: differential-scale binding site modelling for drug–target interaction prediction](https://academic.oup.com/bioinformatics/article/40/5/btae308/7668442) <br> 
+Feng Pan, **Chong Yin**, Si-Qi Liu, Tao Huang, Zhaoxiang Bian, Pong Chi Yuen <br> 
+Bioinformatics, 2024. <br> 
+[**PDF**](https://academic.oup.com/bioinformatics/article/40/5/btae308/7668442) [**Code**](https://github.com/MagicPF/BindingSiteDTI)<br> 
 </div>
 </div>
 
@@ -52,7 +59,7 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024. <br>
 [Learning Sparse Interpretable Features For NAS Scoring From Liver Biopsy Images](https://www.ijcai.org/proceedings/2022/0220.pdf) <br> 
 **Chong Yin**, Siqi Liu, Vincent Wai-Sun Wong, Pong C. Yuen <br> 
 International Joint Conference on Artificial Intelligence (IJCAI), 2022. <br> 
-[**PDF**](https://www.ijcai.org/proceedings/2022/0220.pdf) <br> 
+[**PDF**](https://www.ijcai.org/proceedings/2022/0220.pdf) [**Video**](https://www.ijcai.org/proceedings/2022/video/220) <br> 
 </div>
 </div>
 
