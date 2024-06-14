@@ -31,7 +31,9 @@ I am currently studying for a PhD in Hong Kong Baptist University. My research i
   <div class='paper-box-image'>
     <div>
       <div class="badge">CVPR 2024</div>
-      <img src='images/2024-CVPR-QAP.pdf' alt="sym" width="100%">
+      <object data='images/2024-CVPR-QAP.pdf' type='application/pdf' width='100%' height='500px'>
+        <p>It appears you don't have a PDF plugin for this browser. You can <a href='images/2024-CVPR-QAP.pdf'>click here to download the PDF file.</a></p>
+      </object>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
