@@ -43,7 +43,7 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024. <br>
 [XFibrosis: Explicit Fiber-Vessel Modeling for Fibrosis Staging from Liver Pathology Images](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_XFibrosis_Explicit_Vessel-Fiber_Modeling_for_Fibrosis_Staging_from_Liver_Pathology_CVPR_2024_paper.pdf) <br> 
 **Chong Yin**, Siqi Liu, Fei Lyu, Jiahao Lu, Sune Darkner, Vincent Wai-Sun Wong, Pong C. Yuen <br> 
 IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024. <br> 
-[**PDF**](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_XFibrosis_Explicit_Vessel-Fiber_Modeling_for_Fibrosis_Staging_from_Liver_Pathology_CVPR_2024_paper.pdf) <br> 
+[**Code**] [**PDF**](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_XFibrosis_Explicit_Vessel-Fiber_Modeling_for_Fibrosis_Staging_from_Liver_Pathology_CVPR_2024_paper.pdf) <br> 
 </div>
 </div>
 
