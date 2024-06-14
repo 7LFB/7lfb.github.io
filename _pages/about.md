@@ -27,21 +27,14 @@ I am currently studying for a PhD in Hong Kong Baptist University. My research i
 
 # 📝 Publications
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">CVPR 2024</div>
-      <img src='images/2024-CVPR-QAP.pdf' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    [Prompting Vision Foundation Models for Pathology Image Analysis](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_Prompting_Vision_Foundation_Models_for_Pathology_Image_Analysis_CVPR_2024_paper.pdf) <br> 
-    **Chong Yin**, Siqi Liu, Kaiyang Zhou, Vincent Wai-Sun Wong, Pong C. Yuen <br> 
-    IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024. <br> 
-    [**Code**](https://github.com/7LFB/QAP) 
-    [**PDF**](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_Prompting_Vision_Foundation_Models_for_Pathology_Image_Analysis_CVPR_2024_paper.pdf) 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/2024-CVPR-XFibrosis.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">  
+[Prompting Vision Foundation Models for Pathology Image Analysis](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_Prompting_Vision_Foundation_Models_for_Pathology_Image_Analysis_CVPR_2024_paper.pdf) <br> 
+**Chong Yin**, Siqi Liu, Kaiyang Zhou, Vincent Wai-Sun Wong, Pong C. Yuen <br> 
+IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024. <br> 
+[**PDF**](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_Prompting_Vision_Foundation_Models_for_Pathology_Image_Analysis_CVPR_2024_paper.pdf) 
     [**Video**](https://www.youtube.com/watch?v=NVvSgUNN2ro)<br> 
-  </div>
+</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/2024-CVPR-XFibrosis.pdf' alt="sym" width="100%"></div></div>
