@@ -29,7 +29,7 @@ I am currently studying for a PhD in Hong Kong Baptist University. My research i
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/2024-MICCAI-HistoSyn.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [HistoSyn:Histomorphology-Focused Pathology Image Synthesis]() <br> 
 **Chong Yin**, Siqi Liu, Vincent Wai-Sun Wong, Pong C. Yuen <br> 
