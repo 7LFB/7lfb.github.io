@@ -22,12 +22,21 @@ I am currently studying for a PhD in Hong Kong Baptist University. My research i
 - 📫 Email: chongyin@comp.hkbu.edu.hk; chong2yolo@gmail.com
 
 # 🔥 News
-
+- _2024.06_: &nbsp;🎉🎉 One MICCAI paper accepted.
 - _2024.02_: &nbsp;🎉🎉 Two CVPR papers accepted. See you in Seattle.
 - _2022.03_: &nbsp;🎉🎉 One IJCAI paper accepted. See you in Vienna.
 - _2021.05_: &nbsp;🎉🎉 One MICCAI paper accepted.
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[HistoSyn:Histomorphology-Focused Pathology Image Synthesis]() <br> 
+**Chong Yin**, Siqi Liu, Vincent Wai-Sun Wong, Pong C. Yuen <br> 
+International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2024. <br> 
+[**PDF**]() <br> 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/2024-CVPR-QAP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">  
