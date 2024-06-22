@@ -34,7 +34,7 @@ I am currently studying for a PhD in Hong Kong Baptist University. My research i
 [HistoSyn:Histomorphology-Focused Pathology Image Synthesis]() <br> 
 **Chong Yin**, Siqi Liu, Vincent Wai-Sun Wong, Pong C. Yuen <br> 
 International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2024. <br> 
-[**PDF**]() <br> 
+[**PDF**]() [**Code**](https://github.com/7LFB/HistoSyn)<br> 
 </div>
 </div>
 
