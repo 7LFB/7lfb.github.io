@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chong YIN"
-description              : "Medical image processing. "
+description              : "Pathology image processing. "
 repository               : "7LFB/7LFB.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chong YIN"
   avatar           : "images/android-chrome-192x192.png"
-  bio              : "Hong Kong Baptist University"
-  location         : "DLB625, Kowloon, HK, China"
+  bio              : "Hainan University"
+  location         : "Room 1118, Agriculture Building, Hainan University, 58 Renmin Avenue, Haikou, Hainan Province, P.R. China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=mIlgsX4AAAAJ&hl=en"
-  email            : "chongyin@comp.hkbu.edu.hk; chong2yolo@gmail.com"
+  email            : "yinchong@hainanu.edu.cn; chongyin@comp.hkbu.edu.hk; chong2yolo@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
