@@ -18,8 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About Me
-I am currently studying for a PhD in Hong Kong Baptist University. My research interest is medical image analysis, and interpretable network design. Our main focus of investigation currently is nonalcoholic fatty liver disease (NAFLD), which has emerged as the most common liver disease worldwide.
-- 📫 Email: chongyin@comp.hkbu.edu.hk; chong2yolo@gmail.com
+I am currently an Associate Researcher at the School of Computer Science and Technology, Hainan University. I received my Ph.D. degree from Hong Kong Baptist University in 2024. My research interests focus on medical image analysis and interpretable deep learning architectures. Currently, our team is investigating nonalcoholic fatty liver disease (NAFLD), the most prevalent liver condition globally, with an emphasis on developing advanced computational methods for diagnosis and progression monitoring.
+
+- 📫 Email: yinchong@hainanu.edu.cn; chongyin@comp.hkbu.edu.hk; chong2yolo@gmail.com
 
 # 🔥 News
 - _2024.06_: &nbsp;🎉🎉 One MICCAI paper accepted.
