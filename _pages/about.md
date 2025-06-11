@@ -23,12 +23,22 @@ I am currently an Associate Researcher at the School of Computer Science and Tec
 - 📫 Email: yinchong@hainanu.edu.cn; chongyin@comp.hkbu.edu.hk; chong2yolo@gmail.com
 
 # 🔥 News
+- _2025.06_: &nbsp;🎉🎉 One TMI paper (extension of cvpr's work) accepted.
 - _2024.06_: &nbsp;🎉🎉 One MICCAI paper accepted.
 - _2024.02_: &nbsp;🎉🎉 Two CVPR papers accepted. See you in Seattle.
 - _2022.03_: &nbsp;🎉🎉 One IJCAI paper accepted. See you in Vienna.
 - _2021.05_: &nbsp;🎉🎉 One MICCAI paper accepted.
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/2025-TMI-Q-PoVP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Polarity Prompting Vision Foundation Models for Pathology Image Analysis]() <br> 
+**Chong Yin**, Siqi Liu, Kaiyang Zhou, Vincent Wai-Sun Wong, Pong C. Yuen <br> 
+IEEE Transactions on Medical Imaging (TMI), 2024. <br> 
+[**PDF**](https://doi.org/10.1109/TMI.2025.3578492) <br> 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/2024-MICCAI-HistoSyn.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
