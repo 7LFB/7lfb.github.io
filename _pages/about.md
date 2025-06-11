@@ -31,7 +31,7 @@ I am currently an Associate Researcher at the School of Computer Science and Tec
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2025</div><img src='images/2025-TMI-Q-PoVP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2025</div><img src='images/2025-TMI-Q-PoVP-idea.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Polarity Prompting Vision Foundation Models for Pathology Image Analysis]() <br> 
 **Chong Yin**, Siqi Liu, Kaiyang Zhou, Vincent Wai-Sun Wong, Pong C. Yuen <br> 
